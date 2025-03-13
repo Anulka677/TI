@@ -1,1 +1,2 @@
 Pierwszy commit
+Zmieniono plik na GitHubie
